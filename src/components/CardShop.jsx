@@ -58,14 +58,3 @@ function CardShop() {
 
 export default CardShop
 
-
-
-{/* <h5>Rating : {api.rating}</h5> */ }
-{/* <span className="price">TICKET PRICE : 250</span>
-
-                <div className="container">
-                <div className="h4">
-                    <h4><b>MOVIE :  AMARAN</b></h4>
-                   <b>DESCRIPTION :</b>  Amaran is a good and family entertainment movie
-                </div> */}
-{/* <p></p>  */ }
