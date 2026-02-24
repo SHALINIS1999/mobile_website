@@ -9,7 +9,6 @@ const Footer = () => {
           <h3>Smart World</h3>
           <p>Building modern web experiences.</p>
         </div>
-
         <div className="footer-section">
           <h4>Quick Links</h4>
           <ul>

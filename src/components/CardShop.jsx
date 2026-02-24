@@ -24,6 +24,7 @@ function CardShop() {
     {apicalling.map((da) => (
     <div key={da.id}>
     <div className="card">
+
         <img src={da.thumbnail} />
 
         <h2>{da.title}</h2>
@@ -49,7 +50,6 @@ function CardShop() {
     </div>
     ))
     }
-
         </div>
         <Footer />
     </div>
